@@ -1,4 +1,4 @@
-# Hello there, this is migs! :)
+# Hello there, this is Migs! :)
 
 #### Currently learning (ง •\_•)ง:
 
