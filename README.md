@@ -23,14 +23,14 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/2048px-Typescript.svg.png" alt="TS" width="50"/>
 </td>
 <td>
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="JQuery" width="50"/>
-</td>
-<td>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50"/>
 </td>
 </tr>
 
 <tr>
+<td>
+<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="JQuery" width="50"/>
+</td>
 <td>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50"/>
 </td>
