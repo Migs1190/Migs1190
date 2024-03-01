@@ -43,8 +43,5 @@
 <td>
 <img src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" alt="Firebase" width="50" />
 </td>
-<td>
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="50" />
-</td>
 </tr>
 </table>
