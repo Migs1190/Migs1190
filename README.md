@@ -1,4 +1,4 @@
-![image](https://github.com/Migs1190/Migs1190/assets/85113254/ac7b88ad-b488-4e81-99aa-5bc6c401db43)# Hello there, this is Migs! :)
+# Hello there, this is Migs! :)
 
 #### Currently learning (ง •\_•)ง:
 
