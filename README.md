@@ -1,4 +1,4 @@
-# Hello there, this is Migs! :)
+# Hello there, this is Ahmad! :)
 
 #### Currently learning (ง •\_•)ง:
 
