@@ -2,12 +2,12 @@
 
 #### Currently learning (ง •\_•)ง:
 
-- <a href="https://expressjs.com" style="color: white"> ExpressJs🚂</a>
-- <a href="https://www.mongodb.com" style="color: #4FAD4E">MongoDB🍃</a>
-- <a href="https://astro.build/" style="color: #E23985">Astro🚀</a>
-- <a href="https://www.linux.org/" style="color: #F7C93F">Linux🐧</a>
+- <a href="https://expressjs.com"> ExpressJs🚂</a>
+- <a href="https://www.mongodb.com">MongoDB🍃</a>
+- <a href="https://p5js.org/">P5.js</a>
+- <a href="https://www.php.net">PHP</a>
 
-#### Skills (⌐■_■):
+#### Languages, Tools and Frameworks (⌐■_■):
 
 <table>
 <tr>
@@ -50,6 +50,11 @@
 </td>
 <td>
 <img src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod" title="Zod" width="50" />
+</td>
+</tr>
+<tr>
+  <td>
+<img src="https://astro.build/assets/press/astro-icon-light-gradient.png" alt="Astro" title="Astro" width="50" />
 </td>
 </tr>
 </table>
