@@ -1,60 +1,27 @@
-# Hello there, it's Ahmad! :)
+# 💫 About Me:
+I am a passionate web developer with expertise in creating dynamic and responsive web applications. My skill set includes modern technologies such as React and TypeScript, along with a strong foundation in HTML, CSS, and JavaScript. I enjoy leveraging frameworks like Bootstrap and Tailwind CSS to enhance user interfaces, and I have experience working with back-end technologies like Express.js. I'm always eager to learn new skills and take on challenging projects.<br><br>🔭 I’m currently working on:<br>VividRead<br>🌱 I’m currently learning:<br>React-Native - PHP
 
-I am a passionate web developer with expertise in creating dynamic and responsive web applications. My skill set includes modern technologies such as React and TypeScript, along with a strong foundation in HTML, CSS, and JavaScript. I enjoy leveraging frameworks like Bootstrap and Tailwind CSS to enhance user interfaces, and I have experience working with back-end technologies like Express.js. I'm always eager to learn new skills and take on challenging projects.
 
-## Currently learning (ง •\_•)ง:
-- <a href="https://p5js.org/">P5.js🎨</a>
-- <a href="https://www.php.net" style="text-decoration: none;">PHP🐘</a>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Migs1190) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-magdy-85a034240/) 
 
-## Languages, Tools and Frameworks (⌐■_■):
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Migs1190&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Migs1190&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Migs1190&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<table>
-<tr>
-<td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" alt="HTML" title="HTML" width="50"/>
-</td>
-<td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" title="CSS" width="50"/>
-</td>
-<td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" title="JS" width="50"/>
-</td>
-<td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/2048px-Typescript.svg.png" alt="TS" title="TS" width="50"/>
-</td>
-<td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" title="Bootstrap" width="50"/>
-</td>
-<td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="Sass" title="Sass" width="50" />
-</td>
-</tr>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Migs1190&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-<tr>
-<td>
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="JQuery" title="JQuery" width="50"/>
-</td>
-<td>
-<img src="https://icon.icepanel.io/Technology/svg/React-Bootstrap.svg" alt="React-Bootstrap" title="React-Bootstrap" width="50"/>
-</td>
-<td>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" title="React" width="50"/>
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" title="Redux" width="50" />
-</td>
-<td>
-<img src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" alt="Firebase" title="Firebase" width="50" />
-</td>
-</td>
-<td>
-<img src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="Zod" title="Zod" width="50" />
-</td>
-</tr>
-<tr>
-  <td>
-<img src="https://astro.build/assets/press/astro-icon-light-gradient.png" alt="Astro" title="Astro" width="50" />
-</td>
-</tr>
-</table>
-Thanks for visiting! I'm excited to share my journey and collaborate on new projects. 🌟
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Migs1190&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Migs1190&icon=2&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
