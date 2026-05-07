@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate web developer with expertise in creating dynamic and responsive web applications. My skill set includes modern technologies such as React and TypeScript, along with a strong foundation in HTML, CSS, and JavaScript. I enjoy leveraging frameworks like Bootstrap and Tailwind CSS to enhance user interfaces, and I have experience working with back-end technologies like Express.js. I'm always eager to learn new skills and take on challenging projects.<br><br>🔭 I’m currently working on:<br>VividRead<br>🌱 I’m currently learning:<br>React-Native - PHP
+I am a passionate web developer with expertise in creating dynamic and responsive web applications. My skill set includes modern technologies such as React and TypeScript, along with a strong foundation in HTML, CSS, and JavaScript. I enjoy leveraging frameworks like Bootstrap and Tailwind CSS to enhance user interfaces, and I have experience working with back-end technologies like Express.js. I'm always eager to learn new skills and take on challenging projects.<br><br>🌱 I’m currently learning:<br>NestJs
 
 
 ## 🌐 Socials:
